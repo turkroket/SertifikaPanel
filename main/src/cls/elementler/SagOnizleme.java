@@ -23,7 +23,7 @@ public class SagOnizleme {
         button = new Button("Görüntüyü Güncelle.");
         button2 = new Button("Örnek Görüntü Çıktısı Al.");
         button3 = new Button("Görüntüleri oluştur.");
-        image = new Image("resim.jpg");
+        image = new Image("sertifika.png");
         imageView = new ImageView(image);
         imageView.setFitWidth(600);
         imageView.setFitHeight(424);

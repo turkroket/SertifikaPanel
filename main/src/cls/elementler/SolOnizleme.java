@@ -22,7 +22,7 @@ public class SolOnizleme {
         button = new Button("Onizlemeyi Güncelle");
         button2 = new Button("Farklı Pencerede Görüntüle");
         //action
-        image = new Image("resim.jpg");
+        image = new Image("sertifika.png");
         imageView = new ImageView(image);
         imageView.setFitWidth(600);
         imageView.setFitHeight(424);
