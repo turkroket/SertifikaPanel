@@ -1,0 +1,22 @@
+.button {
+    -fx-background-color: #000000; /* Button arka plan rengi */
+    -fx-text-fill: #FFFFFF; /* Button metin rengi */
+}
+.text-area {
+    -fx-control-inner-background: #282828;
+    -fx-text-fill: white;
+}
+.text-field {
+    -fx-background-color: #333333;
+    -fx-text-fill: white;
+}
+#mainHBox {
+    -fx-background-color: #333333;
+    -fx-text-fill: white;
+}
+.label {
+    -fx-text-fill: white;
+}
+.progress-bar {
+    -fx-accent: #000000;
+}

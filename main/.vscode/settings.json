@@ -1,0 +1,20 @@
+{
+	"java.project.sourcePaths": [
+		"src"
+	],
+	"java.project.outputPath": "bin",
+	"java.project.referencedLibraries": [
+		"../libdeb/mysql-connector-j-8.0.33.jar",
+		"../libdeb/lib/javafx.base.jar",
+		"../libdeb/lib/javafx.controls.jar",
+		"../libdeb/lib/javafx.fxml.jar",
+		"../libdeb/lib/javafx.graphics.jar",
+		"../libdeb/lib/javafx.media.jar",
+		"../libdeb/lib/javafx.swing.jar",
+		"../libdeb/lib/javafx.web.jar",
+		"../libdeb/lib/javafx-swt.jar"
+	],
+	"java.debug.settings.onBuildFailureProceed": true
+}
+
+  
