@@ -1,16 +1,17 @@
 package cls.elementler;
 
-
-import java.io.Console;
 import cls.fonksiyonlar.SolOnizlemeFonk;
 import javafx.scene.control.Button;
+import javafx.scene.control.CheckBox;
 import javafx.scene.control.TextArea;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 
 public class SolOnizleme {
     public SolOnizlemeFonk solOnizlemeFonk = new SolOnizlemeFonk();
+    CheckBox checkBox = new CheckBox("Önizleme");
     public Image image;
     public ImageView imageView;
     public Button button;
@@ -34,11 +35,11 @@ public class SolOnizleme {
     public void PanelYinele(VBox vBox){
         ElementrleriOlustur();
         PanelFonksiyonellik(vBox);
-        vBox.getChildren().addAll(imageView, button, button2, textField);
+        vBox.getChildren().addAll(checkBox,imageView, button, button2, textField);
         vBox.setStyle("-fx-background-color: #282828; -fx-text-fill: white;");
     }
     public void PanelFonksiyonellik(VBox vBox){
-        solOnizlemeFonk.OnizlemeGuncelle(button, textField,imageView,vBox);
+        solOnizlemeFonk.OnizlemeGuncelle(checkBox,button, textField,imageView,vBox, image);
 
     }
 }

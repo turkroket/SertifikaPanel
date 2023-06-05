@@ -20,3 +20,6 @@
 .progress-bar {
     -fx-accent: #000000;
 }
+.check-box {
+    -fx-text-fill: white;
+}

@@ -18,7 +18,7 @@ public class Main {
         StageOlustur(stag);
         scene = new Scene(Duzenleyici.StageDuzeniOlustur(), 1720, 900);
         
-        Duzenleyici.StageDuzeniGuncelle();
+        Duzenleyici.StageDuzeniGuncelle(stag);
         try {
             File file = new File("main.css");
             String fileUrl = file.toURI().toURL().toExternalForm();

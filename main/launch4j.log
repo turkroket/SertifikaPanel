@@ -1,0 +1,554 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	--enable-preview --module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe"
+Args length:	149/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	--module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe"
+Args length:	132/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	--module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe"
+Args length:	132/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_351\bin\javac.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_351\bin\javac.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_351\bin\javac.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_351\bin\javac.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	--module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe"
+Args length:	132/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	--module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe"
+Args length:	132/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	--module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe"
+Args length:	132/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JDKJAR = 
+JRE paths:	
+Error msg:	This application requires a Java Runtime Environment.
+Error:		The system could not find the environment option that was entered.
+
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JDKJAR = 
+JRE paths:	
+Error msg:	This application requires a Java Runtime Environment.
+Error:		The system could not find the environment option that was entered.
+
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+JRE paths:	
+Error msg:	This application requires a Java Runtime Environment.
+Error:		The system could not find the environment option that was entered.
+
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+JRE paths:	
+Error msg:	This application requires a Java Runtime Environment.
+Error:		The system could not find the environment option that was entered.
+
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+JRE paths:	
+Error msg:	This application requires a Java Runtime Environment.
+Error:		The system could not find the environment option that was entered.
+
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	App.exe
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	JRE
+Check launcher:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\JRE\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	App.exe
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	JRE
+Check launcher:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\JRE\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\abp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Common Files\Oracle\Java\javapath
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+JRE paths:	C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Program Files\Java\jre1.8.0_351\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\GitHub CLI\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\spicetify\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\h\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe (OK)
+Version string: 1.008.000_351 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_351\bin\javaw.exe
+Launcher args:	-jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\abp.exe"
+Args length:	62/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\abpb.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\h\Documents\jdk-20.0.1
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Users\h\Documents\jdk-20.0.1\bin
+JRE paths:	C:\Users\h\Documents\jdk-20.0.1;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Users\h\Documents\jdk-20.0.1\bin
+Check launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\abpb.exe"
+Args length:	133/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\abpb.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\h\Documents\jdk-20.0.1
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Users\h\Documents\jdk-20.0.1\bin
+JRE paths:	C:\Users\h\Documents\jdk-20.0.1;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Users\h\Documents\jdk-20.0.1\bin
+Check launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe
+Launcher args:	--module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\abpb.exe"
+Args length:	133/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\abpb.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\h\Documents\jdk-20.0.1
+Substitute:	PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Users\h\Documents\jdk-20.0.1\bin
+JRE paths:	C:\Users\h\Documents\jdk-20.0.1;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\GitHub CLI\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\h\AppData\Local\Microsoft\WindowsApps;C:\Users\h\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\h\AppData\Local\spicetify;C:\Users\h\AppData\Roaming\npm;C:\Users\h\AppData\Local\GitHubDesktop\bin;C:\Users\h\Documents\jdk-20.0.1\bin
+Check launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe
+Launcher args:	--enable-preview --module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\abpb.exe"
+Args length:	150/32768 chars
+Exit code:	0

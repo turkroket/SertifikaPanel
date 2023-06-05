@@ -7,6 +7,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
+import javafx.stage.Stage;
 import cls.fonksiyonlar.SagPanelFonksiyonlari;
 
 public class SagPanelElementleri {
@@ -34,6 +35,10 @@ public class SagPanelElementleri {
     public Label label7;
     public CheckBox checkBox4;
     public HBox hBox2;
+    public TextField textField8;
+    public TextField textField9;
+    public TextField textField10;
+    public TextField textField11;
     public ComboBox<String> comboBox;
     public ComboBox<String> comboBox2;
     public ComboBox<String> comboBox3;
@@ -45,18 +50,33 @@ public class SagPanelElementleri {
 
 
     public void ElementrleriOlustur(){
+    /*
+     * GELECEK SÜRÜM İÇİN
+     */
+    // hBox = new HBox(5);
+    // label4 = new Label("Bir No");
+    // checkBox = new CheckBox("");
+    // label5 = new Label("İki No");
+    // checkBox2 = new CheckBox("");
+    // hBox.getChildren().addAll(label4, checkBox,label5,checkBox2);
+    // hBox2 = new HBox(5);
+    // label6 = new Label("Üç No");
+    // checkBox3 = new CheckBox("");
+    // label7 = new Label("Dört No");
+    // checkBox4 = new CheckBox("");
+    // hBox2.getChildren().addAll(label6, checkBox3,label7,checkBox4);
+    /*
+     * GELECEK SÜRÜM İÇİN
+     */
+    
     hBox = new HBox(5);
-    label4 = new Label("Bir No");
-    checkBox = new CheckBox("");
-    label5 = new Label("İki No");
-    checkBox2 = new CheckBox("");
-    hBox.getChildren().addAll(label4, checkBox,label5,checkBox2);
+    textField8 = new TextField("Birincil Punto");
+    textField9 = new TextField("İkincil Punto");
+    textField10 = new TextField("Üçüncül Punto");
+    textField11 = new TextField("Dördüncül Punto");
+    hBox.getChildren().addAll(textField8, textField9);
     hBox2 = new HBox(5);
-    label6 = new Label("Üç No");
-    checkBox3 = new CheckBox("");
-    label7 = new Label("Dört No");
-    checkBox4 = new CheckBox("");
-    hBox2.getChildren().addAll(label6, checkBox3,label7,checkBox4);
+    hBox2.getChildren().addAll(textField10, textField11);
     
     button2 = new Button("Şablonu Seç");
     label = new Label("Bir numaralı alanın konumu");
@@ -87,11 +107,14 @@ public class SagPanelElementleri {
 
     }
 
-    public void PanelYinele(VBox rightButtons){
+    public void PanelYinele(VBox rightButtons, Stage stage){
         ElementrleriOlustur();
         sagPanelFonksiyonlari.xYKoordinatlariniAl(textField,textField1,textField2,textField3,textField4,textField5,textField6,textField7);
+        sagPanelFonksiyonlari.FontBuyuklugu(textField8,textField9,textField10,textField11);
+        rightButtons.getChildren().addAll(button2,label,textField,textField1,label1,textField2,textField3,label2,textField4,textField5,label3,textField6,textField7,hBox,hBox2,hBox3,hBox4);
         sagPanelFonksiyonlari.FontAl(comboBox,comboBox2,comboBox3,comboBox4);
-        rightButtons.getChildren().addAll(button2,label,textField,textField1,label1,textField2,textField3,label2,textField4,textField5,label3,textField6,textField7,hBox,hBox2,hBox3,hBox4,button );
+        sagPanelFonksiyonlari.Sablondegis(button2,stage);
+        
         //leftButtons.getChildren().addAll();
     }
     

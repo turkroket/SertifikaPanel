@@ -13,5 +13,14 @@ public class SagOnizlemeFonk {
         });
 
     }
+
+    public void setFontBoyutlari(double[] fontBoyutlari) {
+    }
+
+    public void setImageString(String imaString) {
+    }
+
+    public void xKoordinatlariniAl(double[] xKoordinatlar) {
+    }
     
 }

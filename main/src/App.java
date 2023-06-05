@@ -13,7 +13,11 @@ public class App extends Application {
     // Main Method
     public static void main(String args[]) {
         // launch the application
-        launch(args);
+        if (args.length > 0 && args[0].equals("console")) {
+            System.out.println("Console Mode");
+        }else{
+            launch(args);
+        }
     }
     }
 

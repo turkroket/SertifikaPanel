@@ -14,7 +14,8 @@
 		"../libdeb/lib/javafx.web.jar",
 		"../libdeb/lib/javafx-swt.jar"
 	],
-	"java.debug.settings.onBuildFailureProceed": true
+	"java.debug.settings.onBuildFailureProceed": true,
+	"cmake.configureOnOpen": false
 }
 
   
