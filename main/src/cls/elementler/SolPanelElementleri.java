@@ -6,7 +6,7 @@ import javafx.scene.layout.VBox;
 import cls.fonksiyonlar.SolPanelFonksiyonlari;
 
 public class SolPanelElementleri {
-    SolPanelFonksiyonlari solPanelFonksiyonlari = new SolPanelFonksiyonlari();
+    public SolPanelFonksiyonlari solPanelFonksiyonlari = new SolPanelFonksiyonlari();
     public Button button;
     public Button button1;
     public TextField textField;
@@ -36,6 +36,7 @@ public class SolPanelElementleri {
     public void PanelYinele(VBox leftButtons){
         ElementrleriOlustur();
         solPanelFonksiyonlari.verismdegisim(textField1,textField2,textField3,textField4);
+        solPanelFonksiyonlari.TestBaglanti(button);
         leftButtons.getChildren().addAll(button,textField,button1,textField1,textField2,textField3,textField4,button2);
         //leftButtons.getChildren().addAll();
     }

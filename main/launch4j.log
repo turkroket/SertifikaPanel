@@ -552,3 +552,98 @@ Launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe
 Launcher args:	--enable-preview --module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\abpb.exe"
 Args length:	150/32768 chars
 Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\h\Documents\jdk-20.0.1
+JRE paths:	C:\Users\h\Documents\jdk-20.0.1;
+Check launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe
+Launcher args:	--enable-preview --module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe"
+Args length:	160/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\h\Documents\jdk-20.0.1
+JRE paths:	C:\Users\h\Documents\jdk-20.0.1;
+Check launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe
+Launcher args:	--enable-preview --module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml,mysql-connector-j-8.0.33,pdfbox-app-3.0.0-alpha3 -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe"
+Args length:	209/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\h\Documents\jdk-20.0.1
+JRE paths:	C:\Users\h\Documents\jdk-20.0.1;
+Check launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe
+Launcher args:	--enable-preview --module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml,mysql-connector-j-8.0.33,pdfbox-app-3.0.0-alpha3 -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe"
+Args length:	209/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\h\Documents\jdk-20.0.1
+JRE paths:	C:\Users\h\Documents\jdk-20.0.1;
+Check launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe
+Launcher args:	--enable-preview --module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe"
+Args length:	160/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\h\Documents\GitHub\SertifikaPanel\main\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\h\Documents\jdk-20.0.1
+JRE paths:	C:\Users\h\Documents\jdk-20.0.1;
+Check launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe (OK)
+Version string: 1.020.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\h\Documents\jdk-20.0.1\bin\javaw.exe
+Launcher args:	--enable-preview --module-path ..\libdeb\lib --add-modules javafx.controls,javafx.fxml -jar "C:\Users\h\Documents\GitHub\SertifikaPanel\main\SertifikaPanel.exe"
+Args length:	160/32768 chars
+Exit code:	0

@@ -12,16 +12,15 @@ import javafx.scene.image.ImageView;
 import javafx.scene.input.MouseButton;
 import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
-import javafx.scene.shape.Circle;
 import javafx.scene.shape.Rectangle;
 import java.util.Timer;
 import java.util.TimerTask;
-import java.util.Random;
 
 public class SolOnizlemeFonk {
     
+    
     //final SagPanelFonksiyonlari sagPanelFonksiyonlari = SagPanelFonksiyonlari();
-    private SagPanelFonksiyonlari sagPanel;
+
     private double[] xKoordinatlari = new double[8];
     public void xKoordinatlariniAl(double[] gelenKoordinatlar) {
         for (int i = 0; i < xKoordinatlari.length; i++) {
@@ -30,17 +29,15 @@ public class SolOnizlemeFonk {
     
         // Değiştirilen xKoordinatlari'ni kullanarak istediğiniz işlemi yapabilirsiniz
         // Örneğin, değiştirilen xKoordinatlari'ni ekrana yazdırabilirsiniz
-        for (double value : xKoordinatlari) {
-            System.out.println(value);
-        }
+        // for (double value : xKoordinatlari) {
+        //     System.out.println(value);
+        // }
     }
-    public void setSagPanelFonksiyonlari(SagPanelFonksiyonlari sagPanelFonksiyonlari) {
-        this.sagPanel = sagPanelFonksiyonlari;
-    }
+
     private String imageString = "";
     public void setImageString(String imageString) {
         this.imageString = imageString;
-        System.out.println(this.imageString);
+        //System.out.println(this.imageString);
     }
     
     private double[] FontBoyutlari = new double[4];
@@ -156,5 +153,9 @@ public void getChildrens(VBox vBox){
 
         vBox.getChildren().add(1, stackPane);
         
+    }
+    private String[] fontisim = new String[4];
+    public void setFontIsimleri(String[] fontisim2) {
+        this.fontisim = fontisim2;
     }
 }

@@ -11,7 +11,6 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.scene.control.TextField;
 import javafx.scene.text.Font;
-import javafx.scene.text.Text;
 
 //import cls.fonksiyonlar.SolOnizlemeFonk;
 
@@ -31,6 +30,7 @@ public class SagPanelFonksiyonlari {
     //     solOnizlemeFonk.veriAl(veri);
     // }
     //private SolOnizlemeFonk solOnizlemeFonk = new SolOnizlemeFonk();
+    public String[] Fontisim = new String[4];
     public double[] xKoordinatlar=new double[8];
     public double[] FontBoyutlari = new double[4];
     public void xKordinatlarGonder(){
@@ -106,11 +106,21 @@ public class SagPanelFonksiyonlari {
             final int index = i;
             comboBoxs[index].setOnMouseClicked(event -> {
                 
-                //ObservableList<String> fontList = FXCollections.observableArrayList(Font.getFamilies());
-                //comboBoxs[index].setItems(fontList);
-                System.out.println("null");
+                ObservableList<String> fontList = FXCollections.observableArrayList(Font.getFamilies());
+                comboBoxs[index].setItems(fontList);
+                //System.out.println("null");
+            });
+            comboBoxs[index].setOnAction(event ->{
+                Fontisim[index]=comboBoxs[index].getValue().toString();
+                //System.out.println(Fontisim[index]);
+                FontisimleriGonder();
+                //System.out.println("null");
             });
         }
+    }
+    private void FontisimleriGonder() {
+        solOnizlemeFonk.setFontIsimleri(Fontisim);
+        sagOnizlemeFonk.setFontIsimleri(Fontisim);
     }
     public void Sablondegis(Button button, Stage primaryStage){
         button.setOnMouseClicked(event -> {
@@ -124,7 +134,7 @@ public class SagPanelFonksiyonlari {
             if (selectedFile != null) {
                 String filePath = selectedFile.getAbsolutePath();
                 // Dosya yolunu kullanabilirsiniz
-                System.out.println("Seçilen dosya yol: " + filePath);
+                //System.out.println("Seçilen dosya yol: " + filePath);
                 imaString=filePath;
                 imaStringGonder();
             }

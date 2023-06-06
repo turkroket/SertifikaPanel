@@ -4,7 +4,8 @@
 	],
 	"java.project.outputPath": "bin",
 	"java.project.referencedLibraries": [
-		"../libdeb/mysql-connector-j-8.0.33.jar",
+		"../libdeb/lib/pdfbox-app-3.0.0-alpha3.jar",
+		"../libdeb/lib/mysql-connector-j-8.0.33.jar",
 		"../libdeb/lib/javafx.base.jar",
 		"../libdeb/lib/javafx.controls.jar",
 		"../libdeb/lib/javafx.fxml.jar",

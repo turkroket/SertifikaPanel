@@ -10,8 +10,9 @@ import cls.elementler.*;
 public class In {
     
     SolOnizleme SPO = new SolOnizleme();
-    OrtaPanelElementleri OPA = new OrtaPanelElementleri();
     SolPanelElementleri SPA = new SolPanelElementleri();
+    OrtaPanelElementleri OPA = new OrtaPanelElementleri();
+    
     SagPanelElementleri SGA = new SagPanelElementleri();
     SagOnizleme SPG = new SagOnizleme();
 
@@ -25,6 +26,10 @@ public class In {
     public HBox StageDuzeniOlustur(){
         SGA.sagPanelFonksiyonlari.setSolOnizlemeFonk(SPO.solOnizlemeFonk);
         SGA.sagPanelFonksiyonlari.SagOnizlemeFonk(SPG.fonk);
+        //SPA.solPanelFonksiyonlari.setSolOnizleme(SPO);
+        SPA.solPanelFonksiyonlari.setSagOnizlemeFonk(SPG.fonk);
+        //SPG.fonk.setSolPanelFonksiyonlari(SPA.solPanelFonksiyonlari);
+        SPG.fonk.setSolOnizlemeyiAl(SPO);
         solonizleme = new VBox(10);
         solonizleme.setAlignment(Pos.TOP_LEFT);
         solonizleme.setPadding(new Insets(10));
@@ -53,7 +58,7 @@ public class In {
         OPA.PanelYinele(centerbuttons);
         SGA.PanelYinele(rightButtons, stage);
         SPA.PanelYinele(leftButtons);
-        SPG.PanelYinele(sagonlizleme);
+        SPG.PanelYinele(sagonlizleme, stage);
     }
     
 }

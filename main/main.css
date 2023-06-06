@@ -14,9 +14,7 @@
     -fx-background-color: #333333;
     -fx-text-fill: white;
 }
-.label {
-    -fx-text-fill: white;
-}
+
 .progress-bar {
     -fx-accent: #000000;
 }
