@@ -34,6 +34,15 @@ import cls.elementler.SolOnizleme;
 
 
 public class SagOnizlemeFonk {
+    StackPane onizlemPane = new StackPane();
+    StackPane OutPane = new StackPane();
+    StackPane pane = new StackPane();
+    Image realImage;
+    Text text = new Text();
+    Text text2 = new Text();
+    Text text3 = new Text();
+    Text text4 = new Text();
+    
 
     ImageView realView;
     private String directory = new String("");
@@ -44,12 +53,21 @@ public class SagOnizlemeFonk {
     public void LogEkle(String mesaj){
         solOnizleme.textField.appendText("\n"+mesaj);
     }
-
+    private String previmgurlString = "sertifika.png";
     public void OnizlemeGuncelleKaydet(Button button, Button button2, Button button3, ImageView view, VBox vBox, Image image, Stage stage, ProgressBar progressBar){
         LogEkle("Başlatılıyor...");
         button.setOnMouseClicked(event -> {
             if(event.getButton() == MouseButton.PRIMARY){
                 LogEkle("Görüntü güncelleniyor...");
+                if (!previmgurlString.equals(imageString)) {
+                    System.out.println("Degisim gercekleşti");
+                    //change image url
+                    Image image3 = new Image(imageString);
+                    //Image newImage = loadImage("path/to/your/new_image.jpg");""
+                    //image = new Image(imageString);
+                    view.setImage(image3);
+                    previmgurlString = imageString;
+                }
                 //LogEkle(dataStrings[0][1]);
                 //LogEkle(solPanelFonksiyonlari.dataStrings[0][1]);
                 OnizlemeMotoru( view, vBox, image, imageString, 0, stage);
@@ -106,27 +124,34 @@ public class SagOnizlemeFonk {
 
         // Mevcut StackPane'leri kaldırma
         vBox.getChildren().removeIf(node -> node instanceof StackPane);
-
-        StackPane stackPane = new StackPane();
-        stackPane.setAlignment(Pos.CENTER);
-        stackPane.getChildren().add(view);
-        Text text = new Text(textler[0]);
+        if(!onizlemPane.getChildren().isEmpty()){
+            onizlemPane.getChildren().removeAll();
+        }
+        if(!onizlemPane.getChildren().isEmpty()){
+            onizlemPane.getChildren().clear();
+        }
+        onizlemPane.setAlignment(Pos.CENTER);
+        onizlemPane.getChildren().add(view);
+        //Text text = new Text(textler[0]);
+        text.setText(textler[0]);
         text.setFont(Font.font(fontisim[0], FontBoyutlari[0]));
-        
         text.setTranslateX(xKoordinatlar[0]);
         text.setTranslateY(xKoordinatlar[1]);
         text.setFill(Color.BLACK);
-        Text text2 = new Text(textler[1]);
+        //Text text2 = new Text(textler[1]);
+        text2.setText(textler[1]);
         text2.setFont(Font.font(fontisim[1], FontBoyutlari[1]));
         text2.setTranslateX(xKoordinatlar[2]);
         text2.setTranslateY(xKoordinatlar[3]);
         text2.setFill(Color.BLACK);
-        Text text3 = new Text(textler[2]);
+        //Text text3 = new Text(textler[2]);
+        text3.setText(textler[2]);
         text3.setFont(Font.font(fontisim[2], FontBoyutlari[2]));
         text3.setTranslateX(xKoordinatlar[4]);
         text3.setTranslateY(xKoordinatlar[5]);
         text3.setFill(Color.BLACK);
-        Text text4 = new Text(textler[3]);
+        //Text text4 = new Text(textler[3]);
+        text4.setText(textler[3]);
         text4.setFont(Font.font(fontisim[3], FontBoyutlari[3]));
         text4.setTranslateX(xKoordinatlar[6]);
         text4.setTranslateY(xKoordinatlar[7]);
@@ -136,45 +161,49 @@ public class SagOnizlemeFonk {
         text2.setTextAlignment(TextAlignment.LEFT);
         text3.setTextAlignment(TextAlignment.LEFT);
         text4.setTextAlignment(TextAlignment.LEFT);
-        stackPane.getChildren().addAll(text, text2, text3, text4);
+        onizlemPane.getChildren().addAll(text, text2, text3, text4);
         //stackPane.getChildren().addAll(Rectangle1, Rectangle2, Rectangle3, Rectangle4);
 
-        vBox.getChildren().add(1, stackPane);
+        vBox.getChildren().add(1, onizlemPane);
         }
         // if (vBox.getChildren().contains(view)) {
         //     System.out.println("view var");
         //     vBox.getChildren().remove(view);
         // }
     public StackPane OnizlemeKaydet(String string1, String string2, String string3, String string4){
-        Image realImage = new Image(imageString);
+        realImage = new Image(imageString);
         realView = new ImageView(realImage);
-        StackPane pane = new StackPane();
+        pane = new StackPane();
         pane.setAlignment(Pos.CENTER);
         pane.getChildren().add(realView);
-        Text text = new Text(string1);
+        //Text text = new Text(string1);
+        text.setText(string1);
         text.setFont(Font.font(fontisim[0], FontBoyutlari[0]*5.85));
         text.setTextAlignment(TextAlignment.CENTER);
         text.setTranslateX(xKoordinatlar[0]*5.85);
         text.setTranslateY(xKoordinatlar[1]*5.85);
-        text.setFill(Color.BLUE);
-        Text text2 = new Text(string2);
+        text.setFill(Color.BLACK);
+        //Text text2 = new Text(string2);
+        text2.setText(string2);
         text2.setTextAlignment(TextAlignment.LEFT);
         text2.setFont(Font.font(fontisim[1], FontBoyutlari[1]*5.85));
         text2.setTranslateX(xKoordinatlar[2]*5.85);
         text2.setTranslateY(xKoordinatlar[3]*5.85);
-        text2.setFill(Color.BLUE);
-        Text text3 = new Text(string3);
+        text2.setFill(Color.BLACK);
+
+        //Text text3 = new Text(string3);
         text3.setTextAlignment(TextAlignment.LEFT);
+        
         text3.setFont(Font.font(fontisim[2], FontBoyutlari[2]*5.85));
         text3.setTranslateX(xKoordinatlar[4]*5.85);
         text3.setTranslateY(xKoordinatlar[5]*5.85);
-        text3.setFill(Color.BLUE);
-        Text text4 = new Text(string4);
+        text3.setFill(Color.BLACK);
+        //Text text4 = new Text(string4);
         text4.setTextAlignment(TextAlignment.LEFT);
         text4.setFont(Font.font(fontisim[3], FontBoyutlari[3]*5.85));
         text4.setTranslateX(xKoordinatlar[6]*5.85);
         text4.setTranslateY(xKoordinatlar[7]*5.85);
-        text4.setFill(Color.BLUE);
+        text4.setFill(Color.BLACK);
         pane.getChildren().addAll(text, text2, text3, text4);
         //System.out.println("Kaydetme");
         return pane;
@@ -223,6 +252,11 @@ public class SagOnizlemeFonk {
                 try {
                     ImageIO.write(SwingFXUtils.fromFXImage(snapshot, null), "png", file);
                     LogEkle("Resim Kaydedildi");
+                    realView.setImage(null);
+                    pane.getChildren().clear();
+                    snapshot = null;
+                    pane = null;
+                    
                     //System.out.println("Dosya başarıyla kaydedildi: " + file.getAbsolutePath());
                 } catch (IOException e) {
                     //System.out.println("Dosya kaydedilirken bir hata oluştu: " + e.getMessage());

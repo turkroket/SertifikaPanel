@@ -99,6 +99,15 @@ public class SolOnizlemeFonk {
     timer.scheduleAtFixedRate(task, 100, 100);
         button.setOnMouseClicked(e -> {
             if (e.getButton() == MouseButton.PRIMARY) {
+                if (!previmgurlString.equals(imageString)) {
+                    System.out.println("Degisim gercekleşti");
+                    //change image url
+                    Image image3 = new Image(imageString);
+                    //Image newImage = loadImage("path/to/your/new_image.jpg");""
+                    //image = new Image(imageString);
+                    image.setImage(image3);
+                    previmgurlString = imageString;
+                }
                 //getChildrens(vBox);
                 OnizlemeMotoru(image, vBox, image2, imageString);
             } 

@@ -34,7 +34,7 @@ public class SagOnizleme {
         progressBar = new ProgressBar();
         progressBar.setProgress(0);
         checkBox.setAlignment(Pos.CENTER_LEFT);
-        alesaBox.getChildren().addAll(checkBox,progressBar);
+        //alesaBox.getChildren().addAll(checkBox,progressBar);
         alesaBox.setAlignment(Pos.CENTER_RIGHT);
     }
     public void PanelYinele(VBox vBox, Stage stage){
